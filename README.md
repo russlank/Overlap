@@ -2,7 +2,7 @@ Overlap – A small utility that can help network administrators
     to process large list of IPv4 subnets and discover
     overlaps among these subnets.
 
-Copyright (C) 2008 - By: Russlan Kafri - <russlank@gmail.com>)
+Copyright (C) 2008 - By: Russlan Kafri - <russlank@gmail.com>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License version 2
